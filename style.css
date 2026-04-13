@@ -1,0 +1,20 @@
+header{
+  background-color: yellow;
+  color:black;
+}
+body{
+  background-color: darkcyan;
+}
+h2{
+  background-color: pink;
+  color:white ;
+  font-size: 100;
+}
+ul{
+  background-color: brown;
+  color:white ;
+}
+footer{
+  Background-color:green ;
+  text-align: Center;
+}
